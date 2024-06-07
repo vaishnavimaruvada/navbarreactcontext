@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.images {
+  height: 40px;
+  width: 60px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+li {
+  list-style-type: none;
+  text-decoration: none;
+  padding: 5px;
+}
+.links {
+  display: flex;
+}
+.home-image {
+  height: 100px;
+  width: 150px;
+}

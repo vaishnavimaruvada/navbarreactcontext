@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.notimg {
+  height: 150px;
+  width: 200px;
+}
+.containers {
+  height: 100vh;
+  background-size: cover;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
